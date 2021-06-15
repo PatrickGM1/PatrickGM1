@@ -1,0 +1,3 @@
+- Hi, I’m Patrick
+- I’m interested in Programming and Gaming
+- I’m currently learning: React, Python and C#
