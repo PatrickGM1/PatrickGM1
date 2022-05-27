@@ -1,3 +1,3 @@
 - Hi, I’m Patrick
 - I’m interested in Programming and Gaming
-- I’m currently learning: React, Python and C#
+- I’m currently learning: Flutter, Python and C# 
