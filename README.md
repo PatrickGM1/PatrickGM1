@@ -1,3 +1,3 @@
 - Hi, I’m Patrick
 - I’m interested in Programming and Gaming
-- I’m currently learning: Flutter, Python and C# 
+- I’m currently studying Computing Science at [University of Groningen](https://www.rug.nl)
