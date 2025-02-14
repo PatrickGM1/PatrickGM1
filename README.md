@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Patrick
 
 ## 🎓 About Me
-I am a **Computer Science student** at the **University of Groningen**, passionate about technology, programming, and software development. I am constantly learning and growing my skillset, particularly in **software engineering, cybersecurity, and robotics**.
+I am a **Computer Science student** at the **University of Groningen**, passionate about technology, programming, and software development. I am constantly learning and growing my skillset, particularly in **software engineering and electronics**.
 
 ---
 
