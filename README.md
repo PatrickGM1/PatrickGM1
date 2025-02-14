@@ -6,7 +6,7 @@ Sure! Here's a more **serious and minimalistic** version of your profile while m
 
 🎓 **Computer Science Student** | 💻 **Software Engineering & Electronics Enthusiast**  
 
---`
+---
 
 ## **Extracurricular Activities**  
 - **Fully Connected Graph Committee** *(Secretary, Sep 2024 - Present)* – [Cover Study Association](https://www.svcover.nl/)  
