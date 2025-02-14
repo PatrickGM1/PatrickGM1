@@ -27,7 +27,7 @@ I am a **Computer Science student** at the **University of Groningen**, passiona
 ## 📬 Contact Me
 - 📧 Email: [patrickgheba@gmail.com](mailto:patrickgheba@gmail.com)
 - 🔗 LinkedIn: [Patrick Gheba](https://www.linkedin.com/in/patrick-gheba/)
-
+- 🎮 Discord: **patrickgm**
 ---
 
 ⭐ **Feel free to explore my repositories and projects!**  
