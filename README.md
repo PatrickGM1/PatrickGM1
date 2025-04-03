@@ -1,5 +1,3 @@
-Sure! Here's a more **serious and minimalistic** version of your profile while maintaining clarity and professionalism:
-
 ---
 
 # Hi im **Patrick**  
