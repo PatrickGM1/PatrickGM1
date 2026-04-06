@@ -1,20 +1,19 @@
----
+# Patrick Gheba
 
-# Hi im **Patrick**  
-
-🎓 **Computer Science Student** | 💻 **Software Engineering & Electronics Enthusiast**  
+3rd-year Computer Science student at the University of Groningen, with a focus on software engineering and electronics.
 
 ---
 
-## **Extracurricular Activities**  
-- **Fully Connected Graph Committee** *(Secretary, Sep 2024 - Present)* – [Cover Study Association](https://www.svcover.nl/)  
-- **Circuitree Committee** *(Member, Jun 2024 - Present)* – [Cover Study Association](https://www.svcover.nl/)  
+## Links
+
+- [guba.dev](https://guba.dev)
+- [LinkedIn](https://www.linkedin.com/in/patrick-gheba/)
+- [patrickgheba@gmail.com](mailto:patrickgheba@gmail.com)
 
 ---
 
-## **Contact**  
-📧 **Email:** [patrickgheba@gmail.com](mailto:patrickgheba@gmail.com)  
-🔗 **LinkedIn:** [Patrick Gheba](https://www.linkedin.com/in/patrick-gheba/)  
-🎮 **Discord:** **patrickgm**  
+## Extracurriculars
 
----
+**Cover Study Association** — [svcover.nl](https://www.svcover.nl/)
+- Secretary, Fully Connected Graph Committee *(Sep 2024 – Present)*
+- Member, Circuitree Committee *(Jun 2024 – Present)*
